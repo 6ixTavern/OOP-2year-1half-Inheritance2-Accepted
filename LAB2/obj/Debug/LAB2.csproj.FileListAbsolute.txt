@@ -1,0 +1,7 @@
+H:\LAB2(13.10.2022)\LAB2\bin\Debug\LAB2.exe.config
+H:\LAB2(13.10.2022)\LAB2\bin\Debug\LAB2.exe
+H:\LAB2(13.10.2022)\LAB2\bin\Debug\LAB2.pdb
+H:\LAB2(13.10.2022)\LAB2\obj\Debug\LAB2.csprojAssemblyReference.cache
+H:\LAB2(13.10.2022)\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+H:\LAB2(13.10.2022)\LAB2\obj\Debug\LAB2.exe
+H:\LAB2(13.10.2022)\LAB2\obj\Debug\LAB2.pdb
